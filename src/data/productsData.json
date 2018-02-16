@@ -1,0 +1,29 @@
+{"products": [{
+      "title": "Shea Blouse white",
+      "id": "01",
+      "price": "60",
+      "summary": "Elegant ease, subtle sophistication and romantic detail come together in this lightweight silk blouse. The fabric is gathered at the yoke, falling in soft, sensual drapes. The high neckline brings an immediate sense of refinement.",
+      "details": ["Fabric 100% silk, imported from Italy, see-trough texture", "Cut for a loose fit", "Long sleeves with one pearl button fastening at each cuff"],
+      "sizes": ["XS", "S", "M"],
+      "image_name": "item1", 
+      "brand": "Deilani"
+    },{
+      "title": "Marlee Dress",
+      "id": "02",
+      "price": "85",
+      "summary": "This dress is all about movement and fluidity. The fabric is gathered at the yoke, falling in soft, sensual drapes. The ruffled hem, neck ties at back and butterfly print enhance the romance and delicacy of the piece.",
+      "details": ["Fabric 100% viscose, designed and made in Italy, slightly see-trough", "Comes with a separate jersey slip providing for opacity: 73% modal, 27% polyester", "One golden button fastening at each cuff"],
+      "sizes": ["XS"],
+      "image_name": "item2",
+      "brand": "Deilani"
+    }, {
+      "title": "Taylor Dress Black",
+      "id": "03",
+      "price": "160",
+      "summary": "A fluid, feminine black dress suited to many occasions. The flattering silhouette features beautiful V-neckline, wide waistband with gentle folds above and flared skirt. The stretch fabric ensures a comfortable fit.",
+      "details": [],
+      "sizes": ["S", "M"],
+      "image_name": "item3",
+      "brand": "Deilani"
+    }]
+  }

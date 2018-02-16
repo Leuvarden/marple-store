@@ -1,0 +1,24 @@
+{
+    "bannerSlides": [{
+        "id": "01",
+        "title": "White Collars",
+        "summary": "Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "imageName": "banner1",
+        "alt": "Black dress with lace collar",
+        "buttonText": "Get started now"
+    }, {
+        "id": "02",
+        "title": "Marine themes",
+        "summary": "Voluptatibus ad aspernatur inventore ut odio, eligendi porro, voluptates dolorum minus, adipisci excepturi? Maxime consequuntur sint repudiandae et debitis.",
+        "imageName": "banner2",
+        "alt": "Black dress with lace collar",
+        "buttonText": "Get started now"
+    }, {
+        "id": "03",
+        "title": "Lacey!",
+        "summary": "Labore, reprehenderit? Sed accusantium consequatur commodi iste laboriosam ullam distinctio molestiae",
+        "imageName": "banner3",
+        "alt": "Black dress with lace collar",
+        "buttonText": "Get started now"
+    }]
+}
